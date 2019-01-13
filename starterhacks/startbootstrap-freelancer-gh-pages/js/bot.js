@@ -1,5 +1,3 @@
-
-
 function validator(){
     if(document.engine.good.checked && document.engine.bad.checked){
        alert("Invalid response")
@@ -7,7 +5,9 @@ function validator(){
       else  if(document.engine.good.checked){
         document.getElementById("choice").innerHTML = "good"
         }else if(document.engine.bad.checked){
-            document.getElementById("choice").innerHTML = "seek medical attention"
-
+           // document.getElementById("choice").innerHTML = "seek medical attentio"
+            location.href="../bad.html"
+        }else if(document.engine.frust.checked){
+            
         }
     }
