@@ -1,0 +1,20 @@
+{
+  "name": "starterhacks",
+  "version": "1.0.0",
+  "description": "i-need-help app",
+  "main": "app.js",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starterhacks",
+    "uwaterloo"
+  ],
+  "author": "Artur, Jacqueline, Ly, Minh, Mitch",
+  "license": "ISC"
+}

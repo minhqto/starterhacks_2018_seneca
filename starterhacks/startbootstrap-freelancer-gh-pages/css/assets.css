@@ -1,0 +1,38 @@
+.jamml{
+    background-color: #007bff73!important;
+    width: 130px;
+    height: 130px;
+    border: 0px;
+
+}
+.main_header{
+    margin-top: 40px;
+}
+.jamml_button{
+    border: 0px;
+    padding: 0px;
+    position: relative;
+    left: -170px;
+    top: 50px;
+
+
+}
+.fortune_cookie{
+    width: 130px;
+    height: 130px;
+    position: relative;
+    display: inline-block;
+    margin: 50px;
+
+}
+.grey_balloon{
+    width: 226px;
+    height: 224px;
+}
+.dialog_box{
+    width: 354px;
+    height: 191px;
+    position: relative;
+    top: -85px;
+    left:-150px;
+}
