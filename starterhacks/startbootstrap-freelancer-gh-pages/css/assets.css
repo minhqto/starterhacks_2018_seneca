@@ -14,20 +14,21 @@
     position: relative;
     left: -170px;
     top: 50px;
-
-
 }
 .fortune_cookie{
-    width: 130px;
-    height: 130px;
+    width: 226px;
+    height: 224px;
     position: relative;
     display: inline-block;
     margin: 50px;
+    top:-50px;
+    left: -40px;
 
 }
 .grey_balloon{
     width: 226px;
     height: 224px;
+
 }
 .dialog_box{
     width: 354px;
