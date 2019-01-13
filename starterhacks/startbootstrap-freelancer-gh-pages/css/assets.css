@@ -37,3 +37,11 @@
    top: -70px;
    left:-160px;
 }
+.row_pad{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 70px;
+
+}
